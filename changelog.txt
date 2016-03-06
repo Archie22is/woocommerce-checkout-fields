@@ -1,0 +1,2 @@
+2016-03-06 - Vs 1.1
+	- First version, manipulate checkout fields for WooCommerce
